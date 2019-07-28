@@ -1,0 +1,10 @@
+Tsunami Event Validity:
+Valid values: -1 to 4
+Validity of the actual tsunami occurrence is indicated by a numerical rating of the reports of that event:
+
+4 = definite tsunami
+3 = probable tsunami
+2 = questionable tsunami
+1 = very doubtful tsunami
+0 = event that only caused a seiche or disturbance in an inland river
+-1 = erroneous entry

@@ -1,0 +1,24 @@
+Regional boundaries are based on frequency of occurrence of tsunamigenic events, geophysical relations, risk in distant areas and political justification.
+77 =	West Coast of Africa
+78 =	Central Africa
+73 =	Northeast Atlantic Ocean
+72 =	Northwest Atlantic Ocean
+70 =	Southeast Atlantic Ocean
+71 =	Southwest Atlantic Ocean
+75 =	E. Coast USA and Canada, St Pierre and Miquelon
+76 =	Gulf of Mexico
+74 =	Caribbean Sea
+40 =	Black Sea and Caspian Sea
+50 =	Mediterranean Sea
+30 =	Red Sea and Persian Gulf
+60 =	Indian Ocean (including west coast of Australia)
+87 =	Alaska (including Aleutian Islands)
+84 =	China, North and South Korea, Philippines, Taiwan
+81 =	E. Coast Australia, New Zealand, South Pacific Is.
+80 =	Hawaii, Johnston Atoll, Midway I
+83 =	E. Indonesia (Pacific Ocean) and Malaysia
+82 =	New Caledonia, New Guinea, Solomon Is., Vanuatu
+86 =	Kamchatka and Kuril Islands
+85 =	Japan
+88 =	West Coast of North and Central America
+89 =	West Coast of South America

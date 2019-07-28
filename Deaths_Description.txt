@@ -1,0 +1,9 @@
+Description of Deaths from the Tsunami:
+Valid values: 0 to 4
+When a description was found in the historical literature instead of an actual number of deaths, this value was coded and listed in the Deaths De column. If the actual number of deaths was listed, a descriptor was also added for search purposes.
+
+0 = None
+1 = Few (~1 to 50 deaths)
+2 = Some (~51 to 100 deaths)
+3 = Many (~101 to 1000 deaths)
+4 = Very Many (~1001 or more deaths)

@@ -1,0 +1,6 @@
+Maximum Water Height
+:
+The maximum water height above sea level in meters for this event. If the type of measurement of the runup was a:
+
+Tide Gauge - half of the maximum height (minus the normal tide)of a tsunami wave recorded at the coast by a tide gauge.
+Runup Height - the maximum elevation the wave reaches at the maximum inundation.

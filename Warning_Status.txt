@@ -1,0 +1,10 @@
+Warning Status:
+Valid values: -1 to 4
+Warning Status of the Tsunami:
+
+-1=Status unknown
+0=no warning issued
+1=PTW - Pacific-wide Tsunami Warning issued by PTWC
+2=RTW - Regional Tsunami Warning issued by PTWC for areas having no TWS
+3=LTW - Local Tsunami Warning issued by regional or national TWC
+4=TIB - Tsunami Information or Attention Bulletin issued by any agency

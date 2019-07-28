@@ -1,0 +1,7 @@
+Valid values: 0.0 to 9.9
+The computational method for the earthquake magnitude was unknown and could not be determined from the published sources.
+
+The magnitude is a measure of seismic energy. The magnitude scale is logarithmic. An increase of one in magnitude represents a 
+tenfold increase in the recorded wave amplitude. However, the energy release associated with an increase of one in magnitude is not tenfold, 
+but about thirtyfold. For example, approximately 900 times more energy is released in an earthquake of magnitude 7 than in an earthquake of magnitude 5. 
+Each increase in magnitude of one unit is equivalent to an increase of seismic energy of about 1.6 x 10,000,000,000,000 ergs.
